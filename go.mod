@@ -1,5 +1,3 @@
-module Learning-golang
+module liji
 
-go 1.16
-
-require gorgonia.org/tensor v0.9.20
+go 1.17
